@@ -15,7 +15,10 @@ http://partiallyderivative.com/
 
 http://lineardigressions.com/
 
-# Articles:
+https://www.youtube.com/lexfridman
+
+
+# Articles/Websites:
 
 How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images:
 
@@ -30,6 +33,12 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 Gradient Descendent :
 
 https://ruder.io/optimizing-gradient-descent/index.html#fn:15
+
+https://machinelearningmastery.com/blog/
+
+https://github.com/Kayzaks/HackingNeuralNetworks
+
+
 
 
 # Books:
@@ -51,4 +60,8 @@ https://www.youtube.com/watch?v=XNKeayZW4dY
 Neural Network Architecture:
 
 https://www.youtube.com/watch?v=oJNHXPs0XDk&amp=&t=2s
+
+# Colab:
+https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166
+
 
