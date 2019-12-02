@@ -24,6 +24,19 @@ http://lineardigressions.com/
 
 
 Keras Tutorial for Beginners:
+
 https://www.youtube.com/watch?v=XNKeayZW4dY
 
+Neural Network Architecture:
 
+https://www.youtube.com/watch?v=oJNHXPs0XDk&amp=&t=2s
+
+
+How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images:
+
+https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5
+
+Books:
+
+https://page.mi.fu-berlin.de/rojas/neural/
+https://mml-book.github.io/book/mml-book_printed.pdf
