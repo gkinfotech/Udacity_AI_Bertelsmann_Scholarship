@@ -11,9 +11,19 @@ https://ruder.io/optimizing-gradient-descent/index.html#fn:15
 
 Deep Learning Podcast:
 https://dataskeptic.com/podcast?limit=10&offset=0
+
 https://twimlai.com/
+
 https://lexfridman.com/ai/
+
 http://nssdeviations.com/
+
 http://partiallyderivative.com/
+
 http://lineardigressions.com/
+
+
+Keras Tutorial for Beginners:
+https://www.youtube.com/watch?v=XNKeayZW4dY
+
 
