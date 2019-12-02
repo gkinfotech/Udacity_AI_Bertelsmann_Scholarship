@@ -64,4 +64,12 @@ https://www.youtube.com/watch?v=oJNHXPs0XDk&amp=&t=2s
 # Colab:
 https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166
 
+# Kaggle:
+here are some Best Kaggle competitions for beginners :
+Classification Problem: https://www.kaggle.com/c/titanic
+Regression Problem: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Computer Vision: https://www.kaggle.com/c/digit-recognizer
+Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
+Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
+
 
